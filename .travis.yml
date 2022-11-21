@@ -2,4 +2,4 @@ language: node_js
 node_js:
   - "16.15.1"
 before_install:
-  - npm i -g npm@version-number
+  - npm i -g npm@8.11.0
